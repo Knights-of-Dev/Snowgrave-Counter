@@ -11,11 +11,13 @@ Close and open the program.
 ## What does everything do in ```config.json```?
 ```
 {
-	"count": "Snowgraves",
-	"countCol": "#00ccff",
-	"startNum": 1225,
-	"numCol": "#00eeff",
-	"countKey": ["1"],
-	"countSoundPath": "snow.wav"
+	"count": "Snowgraves",			<-- Title (what's being counted)
+	"countCol": "#00ccff",			<-- Color of the title
+	"startNum": 1225,				<-- Starting number
+	"numCol": "#00eeff",			<-- Color of the number
+	"countKey": ["1"],				<-- The key to press to count up
+	"countSoundPath": "snow.wav"	<-- The path to the sound file
 }
 ```
+## Why doesn't the program work on my computer?
+This program only works for Windows systems, as far as it was tested.
