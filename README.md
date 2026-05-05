@@ -9,3 +9,13 @@ The default key to increment the counter is ```1```. Change ```thing``` in ```co
 ## How to reset?
 Close and open the program.
 ## What does everything do in ```config.json```?
+```
+{
+	"count": "Snowgraves",
+	"countCol": "#00ccff",
+	"startNum": 1225,
+	"numCol": "#00eeff",
+	"countKey": ["1"],
+	"countSoundPath": "snow.wav"
+}
+```
