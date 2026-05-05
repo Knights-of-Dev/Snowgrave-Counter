@@ -1,3 +1,4 @@
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 # Snowgrave-Counter
 A simple Python program to count anything you want. Change the settings in config.json to your heart's content!
 ## How to run?
