@@ -2,7 +2,7 @@
 # Snowgrave-Counter
 A simple Python program to count anything you want. Change the settings in config.json to your heart's content!
 ## How to download?
-On the right, under "Releases", click on the latest release. Download ONLY the '.zip' file by clicking on the '.zip'. Finally, unzip the '.zip' file and there you go!
+On the right, under "Releases", click on the latest release. Download ONLY the '.zip' file by clicking on ```Source Code (zip)```. Finally, unzip the '.zip' file and there you go!
 ## How to run?
 Run ```main.py``` to get the counter. Usually you double click the '.py' file on anywhere but the name (double-clicking the name renames it).
 ## How to exit?
